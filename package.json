@@ -1,0 +1,16 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "sample sinon testing",
+  "main": "app.js",
+  "scripts": {
+    "test": " mocha ./test/*.js --exit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.1",
+    "sinon": "^7.3.1"
+  }
+}
